@@ -1,4 +1,4 @@
- #MOTTO
+ # MOTTO
 
  Crée par ONF
 
@@ -9,6 +9,8 @@
  Fait le 12 Février 2021
 
  Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+ 
+ L'expérience Motto consistait à prendre place a partir de nos téléphones et de voyager dans le monde. Pour que cette expérience marche il fallait que 
 
  Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
