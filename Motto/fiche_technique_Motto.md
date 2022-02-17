@@ -1,6 +1,6 @@
  # MOTTO
 
- Crée par ONF
+ Crée par ONF OBN
 
  Nom: Motto
 
@@ -12,13 +12,21 @@
  
  L'expérience Motto consistait à prendre place à partir de nos téléphones et de voyager dans le monde. Pour que cette expérience fonctionne, il fallait que    plusieurs personnes participes. En penant des photos de ce que Motto demandais, cela reussisais a nous unir les uns et les autres à travers la planète.
 
- Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+ Explications sur la mise en espace: 
 
- Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+ Liste des composantes et techniques de l'oeuvre: 
+ 
+ -Une caméra de téléphone
+ -Un téléphone
 
- Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+ Liste des éléments nécessaires pour la mise en exposition:
+ 
+ -Un téléphone
+ -Internet
+ -Des gens
+ -Une caméra de téléphone
 
- Expérience vécue :
+# Expérience vécue :
 
  Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
