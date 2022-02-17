@@ -26,15 +26,9 @@
  -Des gens
  -Une caméra de téléphone
 
-# Expérience vécue :
+ ## Expérience vécue :
 
- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-
- ❤️ Ce qui vous a plu, vous a donné des idées et justifications
-
- 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-
- Références
+ J'ai beaucoup apprécier l'idée de l'expérience. Nous devions prendre des photos pour participer et voir le monde où nous vivons à chaques jours. J'ai donc beaucoup aimer le concept de voyager a travers notre téléphone et aussi de voir que nous sommes unis. La seule chose que je ne referrais pas dans mes prochaines créations, serais que le narrateur de l'expérience sois un peu moin comme une personnes qui connait tous.
 
 Photographies et croquis à intégrer
 
@@ -45,18 +39,3 @@ Photographies et croquis à intégrer
  autoportrait (photo) de vous avec l'oeuvre
  croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
  possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-Organisation du repository
-
-Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu (procédure ici)
-
-Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
-
-Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-
-Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
-
-    - les photographies
-    - les croquis
-    - les notes prises
-    - (tout autre élément utile)
-Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
