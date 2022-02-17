@@ -2,15 +2,15 @@
 
  Crée par ONF
 
- Motto
+ Nom: Motto
 
- Prend lieu sur un téléphone
+ Lieu: sur un téléphone
 
- Fait le 12 Février 2021
+ Date de ma visite: 12 Février 2021
 
- Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+ ## Description de l'oeuvre
  
- L'expérience Motto consistait à prendre place a partir de nos téléphones et de voyager dans le monde. Pour que cette expérience marche il fallait que 
+ L'expérience Motto consistait à prendre place à partir de nos téléphones et de voyager dans le monde. Pour que cette expérience fonctionne, il fallait que    plusieurs personnes participes. En penant des photos de ce que Motto demandais, cela reussisais a nous unir les uns et les autres à travers la planète.
 
  Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
