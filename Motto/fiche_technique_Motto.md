@@ -1,4 +1,4 @@
-#MOTTO
+ #MOTTO
 
  Crée par ONF
 
@@ -6,7 +6,7 @@
 
  Prend lieu sur un téléphone
 
- Date de votre visite
+ Fait le 12 Février 2021
 
  Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
