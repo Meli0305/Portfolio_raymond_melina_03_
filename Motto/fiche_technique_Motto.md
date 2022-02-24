@@ -32,7 +32,7 @@
 
 ## Photographies
 
-![image sélection nom du fichier]()
+![mage1](medias/photo1.md)
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
  photographies des composantes de l'oeuvre
