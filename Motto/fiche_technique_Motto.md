@@ -32,7 +32,7 @@
 
 ## Photographies
 
-![mage1](medias/photo1.md)
+![1mage1](https://user-images.githubusercontent.com/89647786/155438274-8a1bebe1-b030-49fe-a535-a6e2652b5b64.png)
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
  photographies des composantes de l'oeuvre
