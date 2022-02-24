@@ -33,6 +33,9 @@
 ## Photographies
 
 ![1mage1](https://user-images.githubusercontent.com/89647786/155438274-8a1bebe1-b030-49fe-a535-a6e2652b5b64.png)
+![image2](https://user-images.githubusercontent.com/89647786/155438795-b61b5bb2-6f8d-4707-89de-ec777286e0b8.png)
+![image3](https://user-images.githubusercontent.com/89647786/155438912-179aecbc-76ce-4f69-b686-93bf15ade0b8.png)
+![image](https://user-images.githubusercontent.com/89647786/155439061-cf1dde48-4eb9-45de-bfe7-fafcb81cad04.png)
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
  photographies des composantes de l'oeuvre
