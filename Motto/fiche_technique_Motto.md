@@ -32,6 +32,8 @@
 
 ## Photographies
 
+![image sélection nom du fichier]()
+
  photographie de l'oeuvre ou du dispositif dans son ensemble
  photographies des composantes de l'oeuvre
  photographies des éléments nécessaires à sa mise en espace
