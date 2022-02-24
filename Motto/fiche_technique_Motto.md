@@ -37,10 +37,3 @@
 ![image3](https://user-images.githubusercontent.com/89647786/155438912-179aecbc-76ce-4f69-b686-93bf15ade0b8.png)
 ![image](https://user-images.githubusercontent.com/89647786/155439061-cf1dde48-4eb9-45de-bfe7-fafcb81cad04.png)
 
- photographie de l'oeuvre ou du dispositif dans son ensemble
- photographies des composantes de l'oeuvre
- photographies des éléments nécessaires à sa mise en espace
- photographie du cartel ou du panneau explicatif
- autoportrait (photo) de vous avec l'oeuvre
- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
