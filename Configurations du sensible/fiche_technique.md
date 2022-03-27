@@ -1,25 +1,43 @@
 
  ### Titre de l'oeuvre ou de la réalisation
  
- Configurations du sensible
-
+ * Mécanismes de dessaisissement
+ * L'en deçà
+ 
  ### Nom de l'artiste ou de la firme
+ 
+ Béchard Hudon
 
  ### Année de réalisation
+ 
+ 20 février au 16 avril 2022
 
  ### Nom de l'exposition ou de l'événement
+ 
+ Configurations du sensible
 
  ### Lieu de mise en exposition
+ 
+ Présentée à la salle Alfred-Pellan
 
  ### Date de votre visite
+ 
+ 24 mars 2022
 
  ### Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
-
- ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
- ### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+Depuis plus de 20 ans, le duo Béchard Hudon sonde la charge tant physique que sociale des résonances acoustiques à travers des œuvres installatives sonores et sculpturales qui appellent l'écoute attentive et l'observation dans la durée. L'exposition Configurations du sensible présente leurs plus récentes productions, entre autres la série Mécanismes de dessaisissement (2019-2020), composée de 3 sculptures murales géométriques et cinétiques au fort potentiel vibratoire, et L'en deçà (2021), une imposante structure en bois aux consonances architecturales interagissant avec le public à travers de profondes modulations sonores. Si cette dernière pièce met de l'avant le paysage acoustique et tellurique de différents milieux naturels où le duo a mené des recherches de fond, d'autres œuvres misent sur des variations optiques qui témoignent implicitement d'une volonté de bousculer certains paradigmes sociaux afin de repenser nos manières de voir et d'agir. Dans l'ensemble, l'exposition convie à une réflexion sur « l'épaisseur du présent », entendu par la philosophe Isabelle Stengers comme l'expérience d'un temps non euclidien et non linéaire qui contribue à déconstruire les grandes divisions binaires.
+ 
+source:https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:text=Depuis%20plus%20de,grandes%20divisions%20binaires.
 
- ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+### Explications sur la mise en espace de l'oeuvre ou du dispositif 
+ 
+En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boite en bois qui s'appelle ''L'en deca''. À l'intérieure on entendait des sons qui ont été enregistrer que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmits par des transducteurs:
+![transducteur](../media/transducteur.png)
+ 
+### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+
+### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
 ### Expérience vécue :
 
