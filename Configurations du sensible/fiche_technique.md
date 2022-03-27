@@ -33,7 +33,7 @@ source:https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:t
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
 En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boite en bois qui s'appelle ''L'en deca''. À l'intérieure on entendait des sons qui ont été enregistrer que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmits par des transducteurs:
-![transducteur](../medias/transducteur.png)
+![transducteur](/medias/transducteur.png)
  
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
