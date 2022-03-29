@@ -35,11 +35,20 @@ source:https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:t
 En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boite en bois qui s'appelle ''L'en deca''. À l'intérieure on entendait des sons qui ont été enregistrer que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmits par des transducteurs:
 ![transducteur](medias/transducteur.png)
  
-### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+### Liste des composantes et techniques de l'oeuvre ou du dispositif 
+
+* projecteurs
+* transducteurs
+* spotlights
 
 ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
+* boite en bois pour cacher les fils de L'en deça
+* 
+
 ### Expérience vécue :
+
+Mon expérience à cette exposition fut très agréable. J'ai bien aimer la boite en bois puisqu'elle me mettait dans une position de confort total avec les bruits qui nous étions inconnue et aussi les vibrations me donnait un sentiment de réconfort quand j'étais à l'intérieur coucher contre un mur. Ensuite, les trois oeuvres 
 
 ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
