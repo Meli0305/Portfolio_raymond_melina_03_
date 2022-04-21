@@ -48,19 +48,22 @@ En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boi
 
 ### Expérience vécue :
 
-Mon expérience à cette exposition fut très agréable. J'ai bien aimer la boite en bois puisqu'elle me mettait dans une position de confort total avec les bruits qui nous étions inconnue et aussi les vibrations me donnait un sentiment de réconfort quand j'étais à l'intérieur coucher contre un mur. Ensuite, les trois oeuvres 
+Mon expérience à cette exposition fut très agréable. J'ai bien aimer la boite en bois puisqu'elle me mettait dans une position de confort total avec les bruits qui nous étions inconnue et aussi les vibrations me donnait un sentiment de réconfort quand j'étais à l'intérieur coucher contre un mur. Ensuite, les trois oeuvres était très intéressantes aussi. J'ai beaucoup aimé qu'ils était toutes différentes, mais aussi toutes similaire à la fois. Chacuns avec sa forme et sa couleur, mais en passant au dela de ca il y avait une unité entre eux.
 
 ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
- ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ ❤️ J'ai beaucoup apprécier les trois oeuvres de formes puisque cela ma appris que nous ne sommes pas obliger de toujours cacher les fils pour que cela sois beau.
 
- 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ 🤔 Je peux sincèrement dire que j'ai appris beaucoup de choses de cette exposition et que je ne trouve pas autre informations qui ne ma pas fait grandir à travers cette expérience miraculeuse.
 
  Références
 
 Photographies et croquis à intégrer
 
- photographie de l'oeuvre ou du dispositif dans son ensemble
+ photographie de l'oeuvre ou du dispositif dans son ensemble:
+ 
+ ![](medias/.png)
+ 
  photographies des composantes de l'oeuvre
  photographies des éléments nécessaires à sa mise en espace
  photographie du cartel ou du panneau explicatif
