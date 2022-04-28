@@ -37,8 +37,10 @@ Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalit�
 
 * projecteur
 ![jw-bug](medias/jw-bug.jpg)
+source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 * téléphone 
 ![1_ado_cell](medias/1_ado_cell.jpeg)
+source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 * ordinateur
 ![cote_beau_ordi](medias/cote_beau_ordi.png)
 
@@ -46,6 +48,7 @@ Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sa
 
 * sécurité pour le téléphone
 ![38_security](medias/38_security.jpg)
+source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 Expérience vécue :
 
