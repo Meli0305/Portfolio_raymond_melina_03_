@@ -35,9 +35,12 @@ source:https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:t
 En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boite en bois qui s'appelle ''L'en deca''. 
 
  ![exterieur_du_bois](medias/exterieur_du_bois.png)
+ ![intérieur_du_bois](medias/intérieur_du_bois.png)
 
 À l'intérieure on entendait des sons qui ont été enregistrer que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmits par des transducteurs:
 ![transducteur](medias/transducteur.png)
+
+
  
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
@@ -47,7 +50,8 @@ En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boi
 
 ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
-* boite en bois pour cacher les fils de L'en deça
+* boite en bois pour cacher les fils de L'en deça:
+![boites](medias/boites.png)
 * 
 
 ### Expérience vécue :
@@ -74,7 +78,7 @@ Photographies et croquis à intégrer
  autoportrait (photo) de vous avec l'oeuvre
  croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
  possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-Organisation du repository
+ organisation du repository
 
 Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu (procédure ici)
 
