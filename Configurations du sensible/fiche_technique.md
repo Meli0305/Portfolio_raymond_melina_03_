@@ -26,7 +26,9 @@
 
  ### Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
  
-Depuis plus de 20 ans, le duo Béchard Hudon sonde la charge tant physique que sociale des résonances acoustiques à travers des œuvres installatives sonores et sculpturales qui appellent l'écoute attentive et l'observation dans la durée. L'exposition Configurations du sensible présente leurs plus récentes productions, entre autres la série Mécanismes de dessaisissement (2019-2020), composée de 3 sculptures murales géométriques et cinétiques au fort potentiel vibratoire, et L'en deçà (2021), une imposante structure en bois aux consonances architecturales interagissant avec le public à travers de profondes modulations sonores. Si cette dernière pièce met de l'avant le paysage acoustique et tellurique de différents milieux naturels où le duo a mené des recherches de fond, d'autres œuvres misent sur des variations optiques qui témoignent implicitement d'une volonté de bousculer certains paradigmes sociaux afin de repenser nos manières de voir et d'agir. Dans l'ensemble, l'exposition convie à une réflexion sur « l'épaisseur du présent », entendu par la philosophe Isabelle Stengers comme l'expérience d'un temps non euclidien et non linéaire qui contribue à déconstruire les grandes divisions binaires.
+Par une recherche attentive sur les vibrations acoustiques et spatiales, le travail de Catherine Béchard et Sabin Hudon explore ce qui échappe à la perception immédiate. Cette volonté de donner corps à l'invisible se traduit en des oeuvres sonores, installatives, vidéographiques ou cinétiques qui témoignent d'un travail de terrain s'apparentant à une libre forme d'achéologie.
+
+Rassemblant leurs plus récentes productions, expositions marque un nouveau chapitre dans le corpus du duo. par des jeux de résonances
  
 source:https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:text=Depuis%20plus%20de,grandes%20divisions%20binaires.
 
