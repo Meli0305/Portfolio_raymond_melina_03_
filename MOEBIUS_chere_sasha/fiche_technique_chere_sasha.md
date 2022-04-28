@@ -27,6 +27,7 @@ Date de votre visite:
 Description de l'oeuvre ou du dispositif multimédia:
 
 Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
+
 source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
@@ -35,8 +36,11 @@ Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à compos
 Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 * projecteur
+![jw-bug](medias/jw-bug.jpg)
 * téléphone 
 * ordinateur
+
+
 
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
