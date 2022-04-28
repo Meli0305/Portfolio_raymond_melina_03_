@@ -42,9 +42,10 @@ Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalit�
 * ordinateur
 ![cote_beau_ordi](medias/cote_beau_ordi.png)
 
-
-
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+
+* sécurité pour le téléphone
+![38_security](medias/38_security.jpg)
 
 Expérience vécue :
 
