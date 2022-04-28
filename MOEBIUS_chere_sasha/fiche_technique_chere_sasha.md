@@ -38,7 +38,9 @@ Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalit�
 * projecteur
 ![jw-bug](medias/jw-bug.jpg)
 * téléphone 
+![1_ado_cell](medias/1_ado_cell.jpeg)
 * ordinateur
+![cote_beau_ordi](medias/cote_beau_ordi.png)
 
 
 
