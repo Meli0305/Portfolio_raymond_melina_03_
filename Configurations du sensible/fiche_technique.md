@@ -26,9 +26,9 @@
 
  ### Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
  
-Par une recherche attentive sur les vibrations acoustiques et spatiales, le travail de Catherine Béchard et Sabin Hudon explore ce qui échappe à la perception immédiate. Cette volonté de donner corps à l'invisible se traduit en des oeuvres sonores, installatives, vidéographiques ou cinétiques qui témoignent d'un travail de terrain s'apparentant à une libre forme d'achéologie.
+C'est sur le vaste territoire compris entre Sept-Îles et Kegaska, sur la Côte-Nord que furent captés les paysages sonores singuliers au coeur de cette oeuvre. L'usage d'hydrophones, soit des des micros pouvant enregistrer sous l'eau, ainsi que de géophones spécialement concus par les artistes pour capter les vibrations du sol et les traduire en sons, fut essentiel au projet. Diffusée via des transducteurs - qui ici transforment les parois de bois en membranes de transmission sonore-, la composition qui découle de ces enregistrements permet d'entendre une faune marine complexe, notament une colonie d'oursins, et des ondes terrestres en bordure du Saint-Laurent, mais aussi des sons quie ni les artistes, ni les pêcheurs, ni d'autres habitants rencontrés dans la région ne furent capables d'identifier avec précision. Cette part de mystère est soutenue par les détecteurs de mouvement qui activent la bande-son, avec des moments de silence lorsque les gestes se font absents. Le mode d'attention particulier que ces silences convoquent fait partie intégrante de l'oeuvre; il s'agit d'un motif que le duo traite de longue date.
 
-Rassemblant leurs plus récentes productions, expositions marque un nouveau chapitre dans le corpus du duo. par des jeux de résonances
+source: description sur papier
  
 source:https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:text=Depuis%20plus%20de,grandes%20divisions%20binaires.
 
@@ -41,8 +41,7 @@ En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boi
 
 À l'intérieure on entendait des sons qui ont été enregistrer que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmits par des transducteurs:
 ![transducteur](medias/transducteur.png)
-
-
+J'avais l'impressions d'être sous l'eau comme si j'étais enfoui dans un de mes plus profonds souvenirs d'enfance. J'étais très confortable, je me couchais dans un des coins et un sentiment de confort me submergeas.
  
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
@@ -74,7 +73,12 @@ Photographies et croquis à intégrer
  
  ![](medias/.png)
  
- photographies des composantes de l'oeuvre
+ photographies des composantes de l'oeuvre:
+ ![spotloght_bois](medias/spotloght_bois.png)
+ ![boites](medias/boites.png)
+ ![](medias/.png)
+ ![](medias/.png)
+ ![](medias/.png)
  photographies des éléments nécessaires à sa mise en espace
  photographie du cartel ou du panneau explicatif
  autoportrait (photo) de vous avec l'oeuvre
