@@ -77,17 +77,10 @@ Photographies et croquis à intégrer
  ![spotloght_bois](medias/spotloght_bois.png)
  ![boites](medias/boites.png)
  photographies des éléments nécessaires à sa mise en espace
- ![](medias/.png)
+ ![boites](medias/boites.png)
  photographie du cartel ou du panneau explicatif
- ![](medias/.png)
+ ![L'en deca](medias/L'en deca.png)
  autoportrait (photo) de vous avec l'oeuvre
  ![](medias/.png)
  croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
- ![](medias/.png)
-Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
-
-    - les photographies
-    - les croquis
-    - les notes prises
-    - (tout autre élément utile)
-Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
+ ![croquis_oeuvre](medias/croquis_oeuvre.png)
