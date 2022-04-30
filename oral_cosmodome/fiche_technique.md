@@ -1,17 +1,33 @@
 
  ### Titre de l'oeuvre ou de la réalisation
+ 
+ Rocketdyne J-2
 
  ### Nom de l'artiste ou de la firme
+ 
+ Cosmodôme / MSFC/Rocketdyne
 
  ### Année de réalisation
-
+ 
+ 1959 - premier design
+ 26 Février 1966 (premier vole)
+ 15 Juillet 1975 (dernier vole)
+ 
  ### Nom de l'exposition ou de l'événement
+ 
+ UN LANCE-FLAMME D'ENFER
 
  ### Lieu de mise en exposition
+ 
+ Cosmodôme
 
  ### Date de votre visite
+ 
+ 18 avril 2021
 
- ### Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+ ### Description de l'oeuvre ou du dispositif multimédia 
+ 
+ 
 
  ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
