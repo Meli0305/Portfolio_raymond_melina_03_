@@ -66,11 +66,12 @@ La seule chose que j'aurais fait autrement serait peut etre de changer le titre 
 Références:
 https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
-Photographies et croquis à intégrer
-![](medias/)
+
 photographie de l'oeuvre ou du dispositif dans son ensemble 
-![](medias/)
+![13_cell_conclu](medias/13_cell_conclu.jpg)
+![11_boite](medias/11_boite.jpg)
 photographies des composantes de l'oeuvre 
+![12_latch](medias/12_latch.jpg)
 ![38_security](medias/38_security.jpg)
 ![3_ado_journal](medias/3_ado_journal.jpeg)
 photographies des éléments nécessaires à sa mise en espace 
