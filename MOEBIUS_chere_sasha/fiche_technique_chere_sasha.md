@@ -30,6 +30,7 @@ source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
+La mise en espaces était très 
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
@@ -52,39 +53,16 @@ Expérience vécue :
 
 ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-❤️ Ce qui vous a plu, vous a donné des idées et justifications
+❤️ Ce qui vous a plu, vous a donné des idées et justifications:
 
-🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Ce qui ma beaucoup plus dans l'oeuvre ''Chère Sasha'' c'est que c'était très visé à ma génération et donc j'ai pus comprendre et sympathiser avec Sasha, car le relations qu'elle entreprenait avec son père me rappel beaucoup la mienne. Donc, cela me donne beaucoup d'espoir à voir que les choses vont de mieux en mieux en grandissant et qu'il ne faut pas rester dans l'ombre caché mais bien sortir et vivre la vie à pleine dents. De plus, à la fin nous pouvions écrire des petits mots pour qu'il puisse s'ajouter au mur de projection parmis tout les autres. Cela me donnait un ressentit d'unité et de comprésension.
+
+🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:
+
+La seule chose que j'aurais fait autrement serait peut etre de changer le titre de l'oeuvre, puisque c'est un peux compliquer de le prononcer à voix haute. Appart cela, je suis très jalouse de ne pa pouvoir faire se projet dans ma future dernière année de ma technique, parce que c'est une très bonne idée.
 
 Références
 
 Photographies et croquis à intégrer
 
 photographie de l'oeuvre ou du dispositif dans son ensemble photographies des composantes de l'oeuvre photographies des éléments nécessaires à sa mise en espace photographie du cartel ou du panneau explicatif autoportrait (photo) de vous avec l'oeuvre croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation) possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci Organisation du repository
-
-Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu (procédure ici)
-
-Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
-
-Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-
-Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
-
-- les photographies
-- les croquis
-- les notes prises
-- (tout autre élément utile)
-Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
