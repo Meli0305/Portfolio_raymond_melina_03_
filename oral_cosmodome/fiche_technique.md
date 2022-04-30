@@ -10,8 +10,8 @@
  ### Année de réalisation
  
  1959 - premier design
- 26 Février 1966 (premier vole)
- 15 Juillet 1975 (dernier vole)
+ 26 Février 1966 - premier vole
+ 15 Juillet 1975 - dernier vole
  
  ### Nom de l'exposition ou de l'événement
  
@@ -46,8 +46,12 @@
  ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
  ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ 
+ Ce qui ma plus est principalement la grandeure de l'oeuvre parce que cela me fut réaliser à quelle point les choses sont plus grandes que nous le pensont. En plus ce  nous fais rappeler à quelle point nous sommes insignifiant comparer à tout l'univers.
 
  🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+
+ Les aspects que je n'ai pas tant aprrécier, c'est qu'il n'y avais pas de interractions avec la machines.
 
  Références
 
