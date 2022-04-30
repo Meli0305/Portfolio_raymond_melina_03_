@@ -1,39 +1,37 @@
-Chacune des fiches complétées nous permettra de connaitre :
-
-Titre de l'oeuvre ou de la réalisation:
+### Titre de l'oeuvre ou de la réalisation:
 
 Chère Sasha
 
-Nom de l'artiste ou de la firme:
+### Nom de l'artiste ou de la firme:
 
 Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani
 
-Année de réalisation:
+### Année de réalisation:
 
 2022
 
-Nom de l'exposition ou de l'événement:
+### Nom de l'exposition ou de l'événement:
 
 Chère Sasha
 
-Lieu de mise en exposition:
+### Lieu de mise en exposition:
 
 Collège Montmorency au grand studio
 
-Date de votre visite:
+### Date de votre visite:
 
 24 mars 2022
 
-Description de l'oeuvre ou du dispositif multimédia:
+### Description de l'oeuvre ou du dispositif multimédia:
 
 Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
 source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
-Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
 
-Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 * projecteur
 ![jw-bug](medias/jw-bug.jpg)
@@ -44,7 +42,7 @@ source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 * ordinateur
 ![cote_beau_ordi](medias/cote_beau_ordi.png)
 
-Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
 * sécurité pour le téléphone
 ![38_security](medias/38_security.jpg)
@@ -52,7 +50,7 @@ source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 Expérience vécue :
 
-Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
 ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
