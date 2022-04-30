@@ -31,6 +31,8 @@ Collège Montmorency au grand studio
 * 3 minutes
 * Distorsion collective
 
+Justification: Au début je croyais que chère Sasha allait être beaucoup plus bas dans ma liste, mais après la visite j'ai beaucoup apprécier l'approche qu'il ont eu de faire deux côter de la chambre. Je me sentais un peu comme dans une chambre ''escape room''.
+
 ### Description de l'oeuvre ou du dispositif multimédia:
 
 Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
