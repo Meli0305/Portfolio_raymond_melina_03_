@@ -76,22 +76,14 @@ Photographies et croquis à intégrer
  photographies des composantes de l'oeuvre:
  ![spotloght_bois](medias/spotloght_bois.png)
  ![boites](medias/boites.png)
- ![](medias/.png)
- ![](medias/.png)
- ![](medias/.png)
  photographies des éléments nécessaires à sa mise en espace
+ ![](medias/.png)
  photographie du cartel ou du panneau explicatif
+ ![](medias/.png)
  autoportrait (photo) de vous avec l'oeuvre
+ ![](medias/.png)
  croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
- organisation du repository
-
-Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu (procédure ici)
-
-Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
-
-Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-
+ ![](medias/.png)
 Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
 
     - les photographies
