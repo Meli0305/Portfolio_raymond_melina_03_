@@ -79,7 +79,7 @@ Photographies et croquis à intégrer
  photographies des éléments nécessaires à sa mise en espace
  ![boites](medias/boites.png)
  photographie du cartel ou du panneau explicatif
- ![L'en deca](medias/L'en deca.png)
+ ![cartel](medias/cartel.png)
  autoportrait (photo) de vous avec l'oeuvre
  ![](medias/.png)
  croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
