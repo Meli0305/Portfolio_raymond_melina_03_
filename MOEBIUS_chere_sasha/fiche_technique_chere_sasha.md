@@ -30,7 +30,7 @@ source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
-La mise en espaces était très 
+La mise en espaces était très agréable à regarder. Tout de suite en rentrant dans la pièce on pouvait voir la distinction entre les deux côter de la chambre. Un côter de sa jeunesse, un passage plus sombre de sa vie. On pouvait très bien comprendre qu'elle nallait pas très bien de ce côter la puisque la chambre était moins organisé que l'autre et que dans son journal il y avait pleins de mots et dessins dépressif qui faisait rappeler la tristesse. Ensuite, il y avait le côter qui semblait inspirer l'espoir et la bienveillance. On pouvait facilement savoir que celui-ci était la fin joyeuse qu'on pourrait dire. Tout était bien placer, il y avait pleins de lumières et aussi le livre avait des mots inspirants dedans.
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
@@ -42,6 +42,8 @@ source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 * ordinateur
 ![cote_beau_ordi](medias/cote_beau_ordi.png)
+* Hauts parleurs
+ ![40_speaker](medias/40_speaker.jpg)
 
 ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
@@ -61,8 +63,17 @@ Ce qui ma beaucoup plus dans l'oeuvre ''Chère Sasha'' c'est que c'était très 
 
 La seule chose que j'aurais fait autrement serait peut etre de changer le titre de l'oeuvre, puisque c'est un peux compliquer de le prononcer à voix haute. Appart cela, je suis très jalouse de ne pa pouvoir faire se projet dans ma future dernière année de ma technique, parce que c'est une très bonne idée.
 
-Références
+Références:
+https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 Photographies et croquis à intégrer
-
-photographie de l'oeuvre ou du dispositif dans son ensemble photographies des composantes de l'oeuvre photographies des éléments nécessaires à sa mise en espace photographie du cartel ou du panneau explicatif autoportrait (photo) de vous avec l'oeuvre croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation) possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci Organisation du repository
+![](medias/)
+photographie de l'oeuvre ou du dispositif dans son ensemble 
+![](medias/)
+photographies des composantes de l'oeuvre 
+![38_security](medias/38_security.jpg)
+![3_ado_journal](medias/3_ado_journal.jpeg)
+photographies des éléments nécessaires à sa mise en espace 
+![40_speaker](medias/40_speaker.jpg)
+croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+![croquis_chere_sasha](medias/croquis_chere_sasha.png)
