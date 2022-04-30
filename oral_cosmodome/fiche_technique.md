@@ -27,15 +27,21 @@
 
  ### Description de l'oeuvre ou du dispositif multimédia 
  
- 
+ ![cartel](medias/cartel.jpg)
 
  ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+ 
+ L'oeuvre que j'ai choisis est assez grosse, elle prenait donc beaucoup de place dans l'exposition et était très facile à repéré a travers toutes les autres oeuvres. On peut voir touts les files qui dépassait et les engins qui ressortait.
 
- ### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+ ### Liste des composantes et techniques de l'oeuvre ou du dispositif 
+ 
+ * projecteur de lumière
 
  ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
  ### Expérience vécue :
+ 
+ J'ai beaucoup aimer aller visiter cette oeuvre puisque l'ambiance était très calme et relaxante. Il n'y avait pas beaucoup de personnes qui visitais quand j'y suis aller, donc j'avais vraiment l'espaces tout à moi pour bien apprécier les différentes oeuvres. Après réflexion j'ai choisis ''LE LANCE-FLAMME D'ENFER'' puisqu'il ma vraiment tapper dans l'oeil. Le titre aussi est très interrogateur sur qu'elle type de machine c'est.
 
  ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
