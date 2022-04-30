@@ -1,7 +1,6 @@
 
  ### Titre de l'oeuvre ou de la réalisation
  
- * Mécanismes de dessaisissement
  * L'en deçà
  
  ### Nom de l'artiste ou de la firme
