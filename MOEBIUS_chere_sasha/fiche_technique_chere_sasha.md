@@ -22,6 +22,15 @@ Collège Montmorency au grand studio
 
 24 mars 2022
 
+### Liste des Oeuvres de celui que j'ai plus aimé au moins:
+
+* Chère Sasha
+* L'horloge de l'apocalypse
+* Chronaufrage
+* Jeu temporel
+* 3 minutes
+* Distorsion collective
+
 ### Description de l'oeuvre ou du dispositif multimédia:
 
 Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
