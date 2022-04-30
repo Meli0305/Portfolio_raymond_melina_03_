@@ -75,7 +75,6 @@ Photographies et croquis à intégrer
  
  photographies des composantes de l'oeuvre:
  ![spotloght_bois](medias/spotloght_bois.png)
- ![boites](medias/boites.png)
  photographies des éléments nécessaires à sa mise en espace
  ![boites](medias/boites.png)
  photographie du cartel ou du panneau explicatif
