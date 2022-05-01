@@ -32,6 +32,8 @@
  ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
  L'oeuvre que j'ai choisis est assez grosse, elle prenait donc beaucoup de place dans l'exposition et était très facile à repéré a travers toutes les autres oeuvres. On peut voir touts les files qui dépassait et les engins qui ressortait.
+  ![vue_ensemble](medias/vue_ensemble.jpg)
+
 
  ### Liste des composantes et techniques de l'oeuvre ou du dispositif 
  
