@@ -1,1 +1,8 @@
-intervenants, sujet de la présentation, technologies employées, particularités, éléments appréciés et justification
+
+
+La présentation que j’ai choisie est celle de Guillaume Arseneault, 	‘‘Mémoires Distribuées’’.
+Celle-ci m'a beaucoup plu puisque le sujet était unique. Le principal objectif de ce projet était de montrer que l’influence personnelle change d’une personne à l’autre. L'œuvre démontre comment avec l'appui d'un seul bouton il est simple d'alterner entre sujets et thèmes rapidement. Cette action de changer instantanément de "chaîne"   insinue que notre époque est constamment bombardée de nouvelles informations.
+
+ Les principales technologies qui sont utilisées dans ce projet sont: un bouton, beaucoup d’écrans et un ou plusieurs *raspberry pi*. Ce projet est très accrocheur puisque les possibilités de combinaisons sont quasiment infinies. De plus, c'est différent à chaque personne de se faire sa propre opinion et d’avoir sa propre vision des choses. J’ai beaucoup apprécié l’idée que tout change en seulement une fraction de seconde en appuyant sur le bouton. Pour ma part, j'ai perçu le fait qu'il y a une source infinie d'arrangements qui semble faire référence à la manière dont nous consommons les médias sociaux en tant qu'individus. Par exemple, presque chaque personne à partir d'un jeune âge peut se dire d'avoir une présence  sur le Web et chacune de ces personnes auront leur propre expérience personnelle sur ces médias. L'œuvre pourrait faire référence à comment il est simple pour une personne de choisir un thème ou un sujet à consommer sur les médias sociaux puisque tout est accessible à l'appui d'un bouton. Ce qui rappelle un peu la vie; C'est nous, le consommateur, qui avons le contrôle sur nos gestes, nos décisions, mais aussi sur la manière dont nous choisissons d'interpréter notre société.
+ 
+ 269 mots
