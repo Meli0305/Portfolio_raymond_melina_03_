@@ -9,9 +9,9 @@
 
  ### Année de réalisation
  
- 1959 - premier design
- 26 Février 1966 - premier vole
- 15 Juillet 1975 - dernier vole
+ * 1959 - premier design
+ * 26 Février 1966 - premier vole
+ * 15 Juillet 1975 - dernier vole
  
  ### Nom de l'exposition ou de l'événement
  
@@ -41,7 +41,7 @@
 
  ### Expérience vécue :
  
- J'ai beaucoup aimer aller visiter cette oeuvre puisque l'ambiance était très calme et relaxante. Il n'y avait pas beaucoup de personnes qui visitais quand j'y suis aller, donc j'avais vraiment l'espaces tout à moi pour bien apprécier les différentes oeuvres. Après réflexion j'ai choisis ''LE LANCE-FLAMME D'ENFER'' puisqu'il ma vraiment tapper dans l'oeil. Le titre aussi est très interrogateur sur qu'elle type de machine c'est.
+ J'ai beaucoup aimer aller visiter cette oeuvre puisque l'ambiance était très calme et relaxante. Il n'y avait pas beaucoup de personnes qui visitais quand j'y suis aller, donc j'avais vraiment l'espaces tout à moi pour bien apprécier les différentes oeuvres. Après réflexion j'ai choisis ''LE LANCE-FLAMME D'ENFER'' puisqu'il ma vraiment tapper dans l'oeil. Le titre aussi est très interrogateur sur qu'elle type de machine c'est. De plus, 
 
  ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
