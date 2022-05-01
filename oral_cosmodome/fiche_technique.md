@@ -60,7 +60,7 @@
 ### Photographies et croquis à intégrer
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
- [vue_ensemble](medias/vue_ensemble.jpg)
+ ![vue_ensemble_2.jpg](medias/vue_ensemble_2.jpg)
  photographies des éléments nécessaires à sa mise en espace
  photographie du cartel ou du panneau explicatif
  ![cartel](medias/cartel.jpg)
