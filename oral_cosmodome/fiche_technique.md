@@ -43,7 +43,7 @@
 
  ### Expérience vécue :
  
- J'ai beaucoup aimer aller visiter cette oeuvre puisque l'ambiance était très calme et relaxante. Il n'y avait pas beaucoup de personnes qui visitais quand j'y suis aller, donc j'avais vraiment l'espaces tout à moi pour bien apprécier les différentes oeuvres. Après réflexion j'ai choisis ''LE LANCE-FLAMME D'ENFER'' puisqu'il ma vraiment tapper dans l'oeil. Le titre aussi est très interrogateur sur qu'elle type de machine c'est. De plus, 
+ J'ai beaucoup aimer aller visiter cette oeuvre puisque l'ambiance était très calme et relaxante. Il n'y avait pas beaucoup de personnes qui visitais quand j'y suis aller, donc j'avais vraiment l'espaces tout à moi pour bien apprécier les différentes oeuvres. Après réflexion j'ai choisis ''LE LANCE-FLAMME D'ENFER'' puisqu'il ma vraiment tapper dans l'oeil. Le titre aussi est très interrogateur sur qu'elle type de machine c'est. De plus, c'est important de conserver une pièce de l'histoire comme celle là dans nos musées, parce qu'il s'agissait d'une nouvelle étape franchit dans le domaine de science. Portrayer la Rocketdyne J-2 comme une forme d'art est également une manière intéressante de faire hommage à notre passé.
 
  ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
@@ -60,10 +60,11 @@
 ### Photographies et croquis à intégrer
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
- photographies des composantes de l'oeuvre
+ [vue_ensemble](medias/vue_ensemble.jpg)
  photographies des éléments nécessaires à sa mise en espace
  photographie du cartel ou du panneau explicatif
+ ![cartel](medias/cartel.jpg)
  autoportrait (photo) de vous avec l'oeuvre
- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-Organisation du repository
+ 
+ croquis de la mise en espace
+![croquis_cosmodome](medias/croquis_cosmodome.png)
