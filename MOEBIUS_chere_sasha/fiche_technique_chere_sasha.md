@@ -24,12 +24,12 @@ Collège Montmorency au grand studio
 
 ### Liste des Oeuvres de celui que j'ai plus aimé au moins:
 
-* Chère Sasha
-* L'horloge de l'apocalypse
-* Chronaufrage
-* Jeu temporel
-* 3 minutes
-* Distorsion collective
+* Chère Sasha : Au début je croyais que Chère Sasha allait être beaucoup plus bas dans ma liste, mais après la visite j'ai beaucoup apprécier l'approche qu'il ont eu de faire deux côter de la chambre. Je me sentais un peu comme dans une chambre ''escape room''.
+* L'horloge de l'apocalypse : Au tout début quand j'ai entendu parler de se projet je savais que j'allais l'aimer et effectivement jai beaucoup aimé le résultat finale.
+* Chronaufrage : J'ai beaucoup apprécier l'interactivité avec les dessins. C'était une bonne introduction au autre projet, dès que nous avions rentré dans le grand studio
+* Jeu temporel : J'ai eu beaucoup de plaisir avec lui aussi puisque il y avait différentes fin au jeux. Je me suis donc mis comme défis de voir ce que c'était quand tu avais toutes les bonnes réponse. 
+* 3 minutes : Lui aussi je l'ai aimer, mais un peu moins que les autres puisque les transition était un peu sec et quand tout changeait vite cela me stressait un peu.
+* Distorsion collective : Et finalement, j'ai moins aimer celui-ci, mais purement pour des raisons personel et non pour des raisons artistique. Cela me faisait penser à mon primaire.
 
 Justification: Au début je croyais que chère Sasha allait être beaucoup plus bas dans ma liste, mais après la visite j'ai beaucoup apprécier l'approche qu'il ont eu de faire deux côter de la chambre. Je me sentais un peu comme dans une chambre ''escape room''.
 
