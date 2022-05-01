@@ -78,14 +78,17 @@ Références:
 https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
-photographie de l'oeuvre ou du dispositif dans son ensemble 
+### photographie de l'oeuvre ou du dispositif dans son ensemble 
 ![13_cell_conclu](medias/13_cell_conclu.jpg)
 ![11_boite](medias/11_boite.jpg)
-photographies des composantes de l'oeuvre 
+source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+### photographies des composantes de l'oeuvre 
 ![12_latch](medias/12_latch.jpg)
 ![38_security](medias/38_security.jpg)
 ![3_ado_journal](medias/3_ado_journal.jpeg)
-photographies des éléments nécessaires à sa mise en espace 
+source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+### photographies des éléments nécessaires à sa mise en espace 
 ![40_speaker](medias/40_speaker.jpg)
-croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+### croquis de la mise en espace
 ![croquis_chere_sasha](medias/croquis_chere_sasha.png)
