@@ -38,9 +38,9 @@ En rentrant dans la salle, on nous invitait tout de suite à rentrer dans la boi
  ![exterieur_du_bois](medias/exterieur_du_bois.png)
  ![intérieur_du_bois](medias/intérieur_du_bois.png)
 
-À l'intérieure on entendait des sons qui ont été enregistrer que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmits par des transducteurs:
+À l'intérieur on entendait des sons qui ont été enregistrés que même l'humain de peux pas entendre sans l'aide d'une machine. Il y avait des vibrations sur les murs transmis par des transducteurs:
 ![transducteur](medias/transducteur.png)
-J'avais l'impressions d'être sous l'eau comme si j'étais enfoui dans un de mes plus profonds souvenirs d'enfance. J'étais très confortable, je me couchais dans un des coins et un sentiment de confort me submergeas.
+J'avais l'impression d'être sous l'eau comme si j'étais enfoui dans un de mes plus profonds souvenirs d'enfance. J'étais très confortable, je me couchais dans un des coins et un sentiment de confort me submergeait.
  
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
@@ -56,13 +56,13 @@ J'avais l'impressions d'être sous l'eau comme si j'étais enfoui dans un de mes
 
 ### Expérience vécue :
 
-Mon expérience à cette exposition fut très agréable. J'ai bien aimer la boite en bois puisqu'elle me mettait dans une position de confort total avec les bruits qui nous étions inconnue et aussi les vibrations me donnait un sentiment de réconfort quand j'étais à l'intérieur coucher contre un mur. Ensuite, les trois oeuvres était très intéressantes aussi. J'ai beaucoup aimé qu'ils était toutes différentes, mais aussi toutes similaire à la fois. Chacuns avec sa forme et sa couleur, mais en passant au dela de ca il y avait une unité entre eux.
+Mon expérience à cette exposition fut très agréable. J'ai bien aimé la boite en bois puisqu'elle me mettait dans une position de confort total avec les bruits qui nous était inconnue et aussi les vibrations me donnait un sentiment de réconfort quand j'étais à l'intérieur coucher contre un mur. Ensuite, les trois œuvres étaient très intéressantes aussi. J'ai beaucoup aimé qu'ils étaient tous différents, mais aussi tous similaires à la fois. Chacun avec sa forme et sa couleur, mais en passant au-delà de ça il y avait une unité entre eux.
 
 ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
- ❤️ J'ai beaucoup apprécier les trois oeuvres de formes puisque cela ma appris que nous ne sommes pas obliger de toujours cacher les fils pour que cela sois beau.
+ ❤️ J'ai beaucoup apprécié les trois œuvres de formes puisque cela m'a appris que nous ne sommes pas obligés de toujours cacher les fils pour que cela soit beau.
 
- 🤔 Je peux sincèrement dire que j'ai appris beaucoup de choses de cette exposition et que je ne trouve pas autre informations qui ne ma pas fait grandir à travers cette expérience miraculeuse.
+ 🤔 Je peux sincèrement dire que j'ai appris beaucoup de choses de cette exposition et que je ne trouve pas d'autres informations qui ne m'aient pas fait grandir à travers cette expérience miraculeuse.
 
  Références
 
